@@ -1,0 +1,3159 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "Royal Antwerp FC",
+      "shortName": "ANT",
+      "logo": "https://seeklogo.com/images/R/royal-antwerp-fc-logo-B25D2E9B5D-seeklogo.com.png",
+      "primaryColor": "#FF0000",
+      "secondaryColor": "#ffffff"
+    },
+    {
+      "id": 2,
+      "name": "Club Brugge FC",
+      "shortName": "BRU",
+      "logo": "https://seeklogo.com/images/C/club-brugge-kv-logo-A5F3F656BF-seeklogo.com.png",
+      "primaryColor": "#0000CC",
+      "secondaryColor": "#000000"
+    },
+    {
+      "id": 3,
+      "name": "Royal Anderlecht FC",
+      "shortName": "AND",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/RSC_Anderlecht_logo.svg/1200px-RSC_Anderlecht_logo.svg.png",
+      "primaryColor": "#9933FF",
+      "secondaryColor": "#ffffff"
+    },
+    {
+      "id": 4,
+      "name": "KAA Gent",
+      "shortName": "GNT",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/KAA_Gent_logo.svg/1200px-KAA_Gent_logo.svg.png",
+      "primaryColor": "#0080FF",
+      "secondaryColor": "#ffffff"
+    },
+    {
+      "id": 5,
+      "name": "KV Mechelen",
+      "shortName": "KVM",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/KV_Mechelen_logo.svg/1200px-KV_Mechelen_logo.svg.png",
+      "primaryColor": "#DA0000",
+      "secondaryColor": "#FFE600"
+    },
+    {
+      "id": 6,
+      "name": "KRC Genk",
+      "shortName": "GNK",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/KRC_Genk_Logo_2016.svg/1200px-KRC_Genk_Logo_2016.svg.png",
+      "primaryColor": "#0060DE",
+      "secondaryColor": "#ffffff"
+    },
+    {
+      "id": 7,
+      "name": "Union Saint-Gilloise",
+      "shortName": "USG",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
+      "primaryColor": "#0068F0",
+      "secondaryColor": "#F7EF00"
+    },
+    {
+      "id": 8,
+      "name": "Beerschot VA",
+      "shortName": "BEE",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg/1200px-Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg.png",
+      "primaryColor": "#8C00AF",
+      "secondaryColor": "#ffffff"
+    },
+    {
+      "id": 9,
+      "name": "Lierse Kempenzonen",
+      "shortName": "LIE",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lierse_kempenzonen_Logo_2018.svg/1200px-Lierse_kempenzonen_Logo_2018.svg.png",
+      "primaryColor": "#F7EF00",
+      "secondaryColor": "#000000"
+    },
+    {
+      "id": 10,
+      "name": "Oud-Heverlee Leuven",
+      "shortName": "OHL",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Oud_heverlee_leuven.png",
+      "primaryColor": "#ffffff",
+      "secondaryColor": "#000000"
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "firstname": "Michael",
+      "lastname": "Frey",
+      "nationality": "Swiss",
+      "birthDate": "1994-04-07",
+      "image": "https://www.proleague.be/dato/25478/1627760678-frey-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 80,
+      "length": 175,
+      "matchesPlayed": 7,
+      "skills": [
+        {
+          "category": 0,
+          "score": 85,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 91,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 84,
+          "importance": 0.9
+        },
+        {
+          "category": 2,
+          "score": 84,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 36,
+          "importance": 0.4
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.8
+        }
+      ],
+      "positions": [
+        0
+      ],
+      "clubId": 1
+    },
+    {
+      "id": 2,
+      "firstname": "Jean",
+      "lastname": "Butez",
+      "nationality": "French",
+      "birthDate": "1995-04-07",
+      "image": "https://www.proleague.be/dato/25478/1627759352-butez-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 80,
+      "length": 175,
+      "matchesPlayed": 57,
+      "skills": [
+        {
+          "category": 7,
+          "score": 78,
+          "importance": 1
+        },
+        {
+          "category": 6,
+          "score": 85,
+          "importance": 1
+        },
+        {
+          "category": 9,
+          "score": 75,
+          "importance": 1
+        },
+        {
+          "category": 0,
+          "score": 50,
+          "importance": 0.2
+        },
+        {
+          "category": 8,
+          "score": 71,
+          "importance": 1
+        },
+        {
+          "category": 10,
+          "score": 84,
+          "importance": 1
+        }
+      ],
+      "positions": [
+        11
+      ],
+      "clubId": 1
+    },
+    {
+      "id": 3,
+      "firstname": "Charles",
+      "lastname": "de Ketelaere",
+      "nationality": "Belgian",
+      "birthDate": "2001-04-07",
+      "image": "https://www.proleague.be/dato/25478/1627644954-de-ketelere-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 300,
+      "skills": [
+        {
+          "category": 0,
+          "score": 85,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 91,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 84,
+          "importance": 0.9
+        },
+        {
+          "category": 2,
+          "score": 84,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 45,
+          "importance": 0.2
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.7
+        }
+      ],
+      "positions": [
+        1,
+        3
+      ],
+      "clubId": 2
+    },
+    {
+      "id": 4,
+      "firstname": "Ritchie",
+      "lastname": "De Laet",
+      "nationality": "Belgian",
+      "birthDate": "1989-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627759646-de-laet-1.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 85,
+      "length": 175,
+      "matchesPlayed": 145,
+      "skills": [
+        {
+          "category": 0,
+          "score": 71,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 42,
+          "importance": 0.1
+        },
+        {
+          "category": 5,
+          "score": 78,
+          "importance": 0.9
+        },
+        {
+          "category": 2,
+          "score": 64,
+          "importance": 0.3
+        },
+        {
+          "category": 3,
+          "score": 81,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.5
+        }
+      ],
+      "positions": [
+        8,
+        9
+      ],
+      "clubId": 1
+    },
+    {
+      "id": 5,
+      "firstname": "Viktor",
+      "lastname": "Fischer",
+      "nationality": "Danish",
+      "birthDate": "1994-06-09",
+      "image": "https://www.proleague.be/dato/25478/1627911969-07-viktorfischer-edited.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 80,
+      "length": 175,
+      "matchesPlayed": "14",
+      "skills": [
+        {
+          "category": 0,
+          "score": 80,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 85,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 90,
+          "importance": 0.9
+        },
+        {
+          "category": 2,
+          "score": 78,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 54,
+          "importance": 0.4
+        },
+        {
+          "category": 4,
+          "score": 75,
+          "importance": 0.8
+        }
+      ],
+      "positions": [
+        1,
+        2,
+        3
+      ],
+      "clubId": 1
+    },
+    {
+      "id": 7,
+      "firstname": "Joseph",
+      "lastname": "Kumu",
+      "nationality": "Belgian",
+      "birthDate": "1997-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627663930-okumu-2-edited.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 87,
+      "length": 175,
+      "matchesPlayed": 97,
+      "skills": [
+        {
+          "category": 0,
+          "score": 73,
+          "importance": 1
+        },
+        {
+          "category": 1,
+          "score": 38,
+          "importance": 0.2
+        },
+        {
+          "category": 2,
+          "score": 62,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 84,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 65,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.8
+        }
+      ],
+      "clubId": 4,
+      "positions": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 8,
+      "firstname": "Sinan",
+      "lastname": "Bolat",
+      "nationality": "Brazilian",
+      "birthDate": "1988-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627651176-bolat-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 91,
+      "length": 175,
+      "matchesPlayed": 57,
+      "skills": [
+        {
+          "category": 6,
+          "score": 85,
+          "importance": 1
+        },
+        {
+          "category": 7,
+          "score": 80,
+          "importance": 1
+        },
+        {
+          "category": 8,
+          "score": 60,
+          "importance": 1
+        },
+        {
+          "category": 9,
+          "score": 88,
+          "importance": 1
+        },
+        {
+          "category": 10,
+          "score": 87,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 31,
+          "importance": 0.4
+        }
+      ],
+      "clubId": 4,
+      "positions": [
+        11
+      ]
+    },
+    {
+      "id": 9,
+      "firstname": "Abdoulaye",
+      "lastname": "Seck",
+      "nationality": "Congolese",
+      "birthDate": "1992-06-04",
+      "image": "https://www.proleague.be/dato/25478/1627763114-seck-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 87,
+      "length": 175,
+      "matchesPlayed": 473,
+      "skills": [
+        {
+          "category": 0,
+          "score": 77,
+          "importance": 0.6
+        },
+        {
+          "category": 1,
+          "score": 25,
+          "importance": 0.2
+        },
+        {
+          "category": 2,
+          "score": 33,
+          "importance": 0.1
+        },
+        {
+          "category": 3,
+          "score": 85,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 78,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 61,
+          "importance": 0.3
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        9
+      ]
+    },
+    {
+      "id": 10,
+      "firstname": "Simon",
+      "lastname": "Mignolet",
+      "nationality": "Belgian",
+      "birthDate": "1988-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627650112-mignolet-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 83,
+      "length": 175,
+      "matchesPlayed": 157,
+      "skills": [
+        {
+          "category": 6,
+          "score": 88,
+          "importance": 1
+        },
+        {
+          "category": 7,
+          "score": 78,
+          "importance": 1
+        },
+        {
+          "category": 8,
+          "score": 83,
+          "importance": 1
+        },
+        {
+          "category": 9,
+          "score": 85,
+          "importance": 1
+        },
+        {
+          "category": 10,
+          "score": 78,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 31,
+          "importance": 0.2
+        }
+      ],
+      "clubId": 2,
+      "positions": [
+        11
+      ]
+    },
+    {
+      "id": 11,
+      "firstname": "Aurélio",
+      "lastname": "Buta",
+      "nationality": "Portuguese",
+      "birthDate": "1997-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627759096-buta-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 77,
+      "matchesPlayed": 231,
+      "skills": [
+        {
+          "category": 0,
+          "score": 86,
+          "importance": 0.9
+        },
+        {
+          "category": 1,
+          "score": 65,
+          "importance": 0.6
+        },
+        {
+          "category": 2,
+          "score": 77,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 87,
+          "importance": 0.8
+        },
+        {
+          "category": 5,
+          "score": 78,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 76,
+          "importance": 0.8
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        10,
+        6
+      ],
+      "length": "184"
+    },
+    {
+      "id": 12,
+      "firstname": "Koji",
+      "lastname": "Miyoshi",
+      "nationality": "Japanese",
+      "birthDate": "1997-01-01",
+      "image": "https://www.proleague.be/dato/25478/1603129615-miyoshikoji2-edited.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 102,
+      "skills": [
+        {
+          "category": 0,
+          "score": 95,
+          "importance": 0.9
+        },
+        {
+          "category": 1,
+          "score": 70,
+          "importance": 0.8
+        },
+        {
+          "category": 2,
+          "score": 88,
+          "importance": 0.8
+        },
+        {
+          "category": 3,
+          "score": 48,
+          "importance": 0.3
+        },
+        {
+          "category": 5,
+          "score": 80,
+          "importance": 0.4
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.8
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 13,
+      "firstname": "Pieter",
+      "lastname": "Gerkens",
+      "nationality": "Belgian",
+      "birthDate": "1995-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627761049-gerkens-1.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 81,
+          "importance": 0.8
+        },
+        {
+          "category": 2,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 3,
+          "score": 72,
+          "importance": 0.6
+        },
+        {
+          "category": 5,
+          "score": 81,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.6
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 1,
+      "positions": [
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "id": 14,
+      "firstname": "Faris",
+      "lastname": "Haroun",
+      "nationality": "Belgian",
+      "birthDate": "1985-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627761200-haroun-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 60,
+          "importance": 0.6
+        },
+        {
+          "category": 1,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 2,
+          "score": 72,
+          "importance": 0.8
+        },
+        {
+          "category": 3,
+          "score": 81,
+          "importance": 0.8
+        },
+        {
+          "category": 5,
+          "score": 84,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 80,
+          "importance": 0.7
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 1,
+      "positions": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": 15,
+      "firstname": "Lior",
+      "lastname": "Refaelov",
+      "nationality": "Israeli",
+      "birthDate": "1986-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627812847-refaelov-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 75,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 84,
+          "importance": 0.8
+        },
+        {
+          "category": 2,
+          "score": 70,
+          "importance": 0.6
+        },
+        {
+          "category": 3,
+          "score": 56,
+          "importance": 0.2
+        },
+        {
+          "category": 5,
+          "score": 83,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.3
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 3,
+      "positions": [
+        3
+      ]
+    },
+    {
+      "id": 16,
+      "firstname": "Yari",
+      "lastname": "Verschaeren",
+      "nationality": "Belgian",
+      "birthDate": "2001-01-01",
+      "image": "https://www.proleague.be/dato/25478/1596636413-verschaeren-2-edited.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 81,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 78,
+          "importance": 0.7
+        },
+        {
+          "category": 2,
+          "score": 77,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 41,
+          "importance": 0.2
+        },
+        {
+          "category": 5,
+          "score": 76,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 61,
+          "importance": 0.7
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 3,
+      "positions": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 17,
+      "firstname": "Noa",
+      "lastname": "Lang",
+      "nationality": "Dutch",
+      "birthDate": "1999-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627645813-lang-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 86,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 73,
+          "importance": 0.8
+        },
+        {
+          "category": 2,
+          "score": 88,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 40,
+          "importance": 0.1
+        },
+        {
+          "category": 5,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 4,
+          "score": 71,
+          "importance": 0.6
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 78,
+      "clubId": 2,
+      "positions": [
+        0,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "id": 18,
+      "firstname": "Ruud",
+      "lastname": "Vormer",
+      "nationality": "Dutch",
+      "birthDate": "1988-05-18",
+      "image": "https://www.proleague.be/dato/25478/1627649489-vormer-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 70,
+          "importance": 0.6
+        },
+        {
+          "category": 1,
+          "score": 75,
+          "importance": 0.6
+        },
+        {
+          "category": 2,
+          "score": 77,
+          "importance": 0.8
+        },
+        {
+          "category": 3,
+          "score": 74,
+          "importance": 0.7
+        },
+        {
+          "category": 5,
+          "score": 81,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 73,
+          "importance": 0.7
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 2,
+      "positions": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": 19,
+      "firstname": "Dante",
+      "lastname": "Vanzeir",
+      "nationality": "Belgian",
+      "birthDate": "1998-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627765462-vanzeir.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 70,
+          "importance": 0.6
+        },
+        {
+          "category": 1,
+          "score": 83,
+          "importance": 1
+        },
+        {
+          "category": 2,
+          "score": 72,
+          "importance": 0.9
+        },
+        {
+          "category": 3,
+          "score": 30,
+          "importance": 0.1
+        },
+        {
+          "category": 5,
+          "score": 64,
+          "importance": 0.7
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 7,
+      "positions": [
+        0
+      ]
+    },
+    {
+      "id": 20,
+      "firstname": "Frédéric",
+      "lastname": "Frans",
+      "nationality": "Belgian",
+      "birthDate": "1990-09-07",
+      "image": "https://www.proleague.be/dato/25478/1627317077-frans-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 65,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 46,
+          "importance": 0.1
+        },
+        {
+          "category": 2,
+          "score": 57,
+          "importance": 0.2
+        },
+        {
+          "category": 3,
+          "score": 70,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 74,
+          "importance": 0.7
+        },
+        {
+          "category": 4,
+          "score": 63,
+          "importance": 0.2
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": "1425",
+      "clubId": 8,
+      "positions": [
+        9
+      ]
+    },
+    {
+      "id": 21,
+      "firstname": "Joren",
+      "lastname": "Dom",
+      "nationality": "Belgian",
+      "birthDate": "1989-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627316970-dom-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 60,
+          "importance": 0.4
+        },
+        {
+          "category": 1,
+          "score": 70,
+          "importance": 0.5
+        },
+        {
+          "category": 2,
+          "score": 65,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 66,
+          "importance": 0.4
+        },
+        {
+          "category": 5,
+          "score": 69,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 50,
+          "importance": 0.8
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 8,
+      "positions": [
+        5
+      ]
+    },
+    {
+      "id": 22,
+      "firstname": "Anouar",
+      "lastname": "Ait El Hadj",
+      "nationality": "Belgian",
+      "birthDate": "2002-04-02",
+      "image": "https://www.proleague.be/dato/25478/1627812165-el-hadj-1.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 81,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 78,
+          "importance": 0.7
+        },
+        {
+          "category": 2,
+          "score": 77,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 41,
+          "importance": 0.2
+        },
+        {
+          "category": 5,
+          "score": 76,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 61,
+          "importance": 0.7
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 3,
+      "positions": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "id": 23,
+      "firstname": "Benson",
+      "lastname": "Manuel",
+      "nationality": "Belgian",
+      "birthDate": "1997-03-28",
+      "image": "https://www.proleague.be/dato/25478/1627758435-benson.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 84,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 80,
+          "importance": 0.7
+        },
+        {
+          "category": 2,
+          "score": 75,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 55,
+          "importance": 0.3
+        },
+        {
+          "category": 5,
+          "score": 70,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.5
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": "79",
+      "clubId": 1,
+      "positions": [
+        4,
+        6,
+        1,
+        2
+      ]
+    },
+    {
+      "id": 24,
+      "firstname": "Nikola",
+      "lastname": "Storm",
+      "nationality": "Belgian",
+      "birthDate": "1994-09-30",
+      "image": "https://www.proleague.be/dato/25478/1627734128-storm-1.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 86,
+          "importance": 1
+        },
+        {
+          "category": 1,
+          "score": 83,
+          "importance": 1
+        },
+        {
+          "category": 2,
+          "score": 80,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 37,
+          "importance": 0.4
+        },
+        {
+          "category": 5,
+          "score": 72,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 65,
+          "importance": 0.5
+        }
+      ],
+      "weight": "74",
+      "length": "178",
+      "matchesPlayed": 1,
+      "clubId": 5,
+      "positions": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 25,
+      "firstname": "Igor",
+      "lastname": "De Camargo",
+      "nationality": "Belgian",
+      "birthDate": "1983-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627733466-de-camargo-1.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 90,
+          "importance": 1
+        },
+        {
+          "category": 2,
+          "score": 70,
+          "importance": 0.5
+        },
+        {
+          "category": 3,
+          "score": 30,
+          "importance": 0.2
+        },
+        {
+          "category": 5,
+          "score": 60,
+          "importance": 0.3
+        },
+        {
+          "category": 4,
+          "score": 50,
+          "importance": 0.7
+        }
+      ],
+      "weight": "85",
+      "length": "187",
+      "matchesPlayed": 1,
+      "clubId": 5,
+      "positions": [
+        0
+      ]
+    },
+    {
+      "id": 26,
+      "firstname": "Abdallah",
+      "lastname": "Mrabti",
+      "nationality": "Swedish",
+      "birthDate": "1994-05-20",
+      "image": "https://www.proleague.be/dato/25478/1627733835-mrabti-1.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 70,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 70,
+          "importance": 0.9
+        },
+        {
+          "category": 2,
+          "score": 80,
+          "importance": 0.9
+        },
+        {
+          "category": 3,
+          "score": 27,
+          "importance": 0.1
+        },
+        {
+          "category": 5,
+          "score": 65,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 71,
+          "importance": 0.7
+        }
+      ],
+      "weight": "75",
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 5,
+      "positions": [
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "id": 27,
+      "firstname": "Thibault",
+      "lastname": "Peyre",
+      "nationality": "Belgian",
+      "birthDate": "1992-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627733950-peyre-3.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 50,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 30,
+          "importance": 0.1
+        },
+        {
+          "category": 2,
+          "score": 20,
+          "importance": 0.3
+        },
+        {
+          "category": 3,
+          "score": 70,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 70,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.7
+        }
+      ],
+      "weight": "75",
+      "length": "184",
+      "matchesPlayed": 1,
+      "clubId": 5,
+      "positions": [
+        9
+      ]
+    },
+    {
+      "id": 28,
+      "firstname": "Geoffry",
+      "lastname": "Hairemans",
+      "nationality": "Belgian",
+      "birthDate": "1991-10-21",
+      "image": "https://www.proleague.be/dato/25478/1627733715-hairemans-1.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 65,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 76,
+          "importance": 0.8
+        },
+        {
+          "category": 2,
+          "score": 75,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 70,
+          "importance": 0.6
+        },
+        {
+          "category": 5,
+          "score": 81,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "weight": 70,
+      "length": 175,
+      "matchesPlayed": 1,
+      "clubId": 5,
+      "positions": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": 29,
+      "firstname": "Ebere",
+      "lastname": "Onuachu",
+      "nationality": "Nigerian",
+      "birthDate": "1994-05-28",
+      "image": "https://www.proleague.be/dato/25478/1627720221-onuachu-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 70,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 90,
+          "importance": 1
+        },
+        {
+          "category": 2,
+          "score": 75,
+          "importance": 0.8
+        },
+        {
+          "category": 3,
+          "score": 37,
+          "importance": 0.1
+        },
+        {
+          "category": 5,
+          "score": 60,
+          "importance": 0.6
+        },
+        {
+          "category": 4,
+          "score": 80,
+          "importance": 0.5
+        }
+      ],
+      "weight": "93",
+      "length": "201",
+      "matchesPlayed": 1,
+      "clubId": 6,
+      "positions": [
+        0
+      ]
+    },
+    {
+      "id": 30,
+      "firstname": "Simen",
+      "lastname": "Juklerød",
+      "nationality": "Norwegian",
+      "birthDate": "1994-05-18",
+      "image": "https://www.proleague.be/dato/25478/1627719746-juklerod-1.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 85,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 70,
+          "importance": 0.5
+        },
+        {
+          "category": 2,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 76,
+          "importance": 0.8
+        },
+        {
+          "category": 5,
+          "score": 80,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 80,
+          "importance": 0.5
+        }
+      ],
+      "weight": "79",
+      "length": "179",
+      "matchesPlayed": 1,
+      "clubId": 6,
+      "positions": [
+        4,
+        8,
+        9
+      ]
+    },
+    {
+      "id": 31,
+      "firstname": "Junya",
+      "lastname": "Ito",
+      "nationality": "Japanese",
+      "birthDate": "1993-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627719635-ito-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 80,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 80,
+          "importance": 0.7
+        },
+        {
+          "category": 2,
+          "score": 75,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 5,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.5
+        }
+      ],
+      "weight": "66",
+      "length": "176",
+      "matchesPlayed": 1,
+      "clubId": 1,
+      "positions": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 32,
+      "firstname": "Ilombé",
+      "lastname": "Mboyo",
+      "nationality": "Congolese",
+      "birthDate": "1987-04-22",
+      "image": "https://www.proleague.be/dato/25478/1633437448-mboyo.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 87,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 75,
+          "importance": 1
+        },
+        {
+          "category": 2,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 21,
+          "importance": 0.1
+        },
+        {
+          "category": 5,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "weight": "87",
+      "length": "190",
+      "matchesPlayed": 1,
+      "clubId": 4,
+      "positions": [
+        0
+      ]
+    },
+    {
+      "id": 33,
+      "firstname": "Clinton",
+      "lastname": "Mata",
+      "nationality": "Angolan",
+      "birthDate": "1992-11-07",
+      "image": "https://www.proleague.be/dato/25478/1627646113-mata-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 82,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 61,
+          "importance": 0.5
+        },
+        {
+          "category": 2,
+          "score": 75,
+          "importance": 0.8
+        },
+        {
+          "category": 3,
+          "score": 76,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 68,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 80,
+          "importance": 0.8
+        }
+      ],
+      "weight": "72",
+      "length": "180",
+      "matchesPlayed": 1,
+      "clubId": 2,
+      "positions": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": 34,
+      "firstname": "Michael",
+      "lastname": "Murillo",
+      "nationality": "Panamanian",
+      "birthDate": "2000-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627812760-murillo-2.png?auto=format&crop=faces&fit=crop&h=640&w=640",
+      "skills": [
+        {
+          "category": 0,
+          "score": 83,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 57,
+          "importance": 0.2
+        },
+        {
+          "category": 2,
+          "score": 71,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 71,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 68,
+          "importance": 0.7
+        },
+        {
+          "category": 4,
+          "score": 75,
+          "importance": 0.7
+        }
+      ],
+      "weight": "75",
+      "length": "183",
+      "matchesPlayed": 1,
+      "clubId": 3,
+      "positions": [
+        10,
+        9
+      ]
+    },
+    {
+      "id": 35,
+      "firstname": "Nana",
+      "lastname": "Ampomah",
+      "nationality": "Ghanaian",
+      "birthDate": "1996-01-02",
+      "image": "https://www.proleague.be/dato/25478/1627757715-ampomah-1.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "176",
+      "length": "67",
+      "matchesPlayed": 0,
+      "skills": [
+        {
+          "category": 0,
+          "score": 73,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 65,
+          "importance": 0.8
+        },
+        {
+          "category": 2,
+          "score": 75,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 51,
+          "importance": 0.5
+        },
+        {
+          "category": 5,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.8
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 36,
+      "firstname": "Moustafa",
+      "lastname": "Dongo",
+      "nationality": "Congolese",
+      "birthDate": "1996-01-27",
+      "image": "https://www.proleague.be/dato/25478/1603126422-ava-dongo2-png2-edited.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "190",
+      "length": "80",
+      "matchesPlayed": "5",
+      "skills": [
+        {
+          "category": 0,
+          "score": 53,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 22,
+          "importance": 0.1
+        },
+        {
+          "category": 2,
+          "score": 64,
+          "importance": 0.6
+        },
+        {
+          "category": 3,
+          "score": 64,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 70,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 70,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 37,
+      "firstname": "Michel-Ange",
+      "lastname": "Balikwisha",
+      "nationality": "Belgian",
+      "birthDate": "2001-05-10",
+      "image": "https://www.proleague.be/dato/25478/1627757906-balikwiha-1.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "178",
+      "length": "69",
+      "matchesPlayed": "12",
+      "skills": [
+        {
+          "category": 0,
+          "score": 82,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 77,
+          "importance": 0.7
+        },
+        {
+          "category": 2,
+          "score": 78,
+          "importance": 1
+        },
+        {
+          "category": 3,
+          "score": 45,
+          "importance": 0.2
+        },
+        {
+          "category": 5,
+          "score": 68,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 38,
+      "firstname": "Jelle",
+      "lastname": "Bataille",
+      "nationality": "Belgian",
+      "birthDate": "1999-05-20",
+      "image": "https://www.proleague.be/dato/25478/1627758047-bataille-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": 175,
+      "length": "70",
+      "matchesPlayed": "14",
+      "skills": [
+        {
+          "category": 0,
+          "score": 67,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 26,
+          "importance": 0.1
+        },
+        {
+          "category": 2,
+          "score": 37,
+          "importance": 0.2
+        },
+        {
+          "category": 3,
+          "score": 72,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 71,
+          "importance": 0.7
+        },
+        {
+          "category": 4,
+          "score": 76,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        9
+      ]
+    },
+    {
+      "id": 39,
+      "firstname": "Yassine",
+      "lastname": "Hamed",
+      "nationality": "Belgian",
+      "birthDate": "2000-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627758241-ben-hamed-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "65",
+      "length": "170",
+      "matchesPlayed": "1",
+      "skills": [
+        {
+          "category": 0,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 1,
+          "score": 35,
+          "importance": 0.2
+        },
+        {
+          "category": 2,
+          "score": 71,
+          "importance": 0.6
+        },
+        {
+          "category": 3,
+          "score": 64,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 64,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 48,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 40,
+      "firstname": "Sander",
+      "lastname": "Coopman",
+      "nationality": "Belgian",
+      "birthDate": "1995-03-12",
+      "image": "https://www.proleague.be/dato/25478/1627759511-coopman-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "66",
+      "length": "186",
+      "matchesPlayed": "57",
+      "skills": [
+        {
+          "category": 0,
+          "score": 77,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 66,
+          "importance": 0.6
+        },
+        {
+          "category": 2,
+          "score": 66,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 5,
+          "score": 77,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 41,
+      "firstname": "Nill",
+      "lastname": "de Pauw",
+      "nationality": "Belgian",
+      "birthDate": "1990-01-06",
+      "image": "https://www.proleague.be/dato/25478/1627759777-de-pauw-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "76",
+      "length": "180",
+      "matchesPlayed": "17",
+      "skills": [
+        {
+          "category": 0,
+          "score": 71,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 56,
+          "importance": 0.7
+        },
+        {
+          "category": 2,
+          "score": 60,
+          "importance": 0.6
+        },
+        {
+          "category": 3,
+          "score": 79,
+          "importance": 0.7
+        },
+        {
+          "category": 5,
+          "score": 68,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 72,
+          "importance": 0.6
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 42,
+      "firstname": "Alexis",
+      "lastname": "de Sart",
+      "nationality": "Belgian",
+      "birthDate": "1996-01-01",
+      "image": "https://www.proleague.be/dato/25478/1634047668-de-sart-7.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "66",
+      "length": "180",
+      "matchesPlayed": "79",
+      "skills": [
+        {
+          "category": 0,
+          "score": 69,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 77,
+          "importance": 0.6
+        },
+        {
+          "category": 2,
+          "score": 56,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 74,
+          "importance": 0.7
+        },
+        {
+          "category": 5,
+          "score": 87,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": 43,
+      "firstname": "Ortwin",
+      "lastname": "de Wolf",
+      "nationality": "Belgian",
+      "birthDate": "1997-04-23",
+      "image": "https://www.proleague.be/dato/25478/1627760273-de-wolf-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "73",
+      "length": "190",
+      "matchesPlayed": "2",
+      "skills": [
+        {
+          "category": 6,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 7,
+          "score": 70,
+          "importance": 0.5
+        },
+        {
+          "category": 8,
+          "score": 61,
+          "importance": 0.5
+        },
+        {
+          "category": 9,
+          "score": 77,
+          "importance": 0.5
+        },
+        {
+          "category": 10,
+          "score": 53,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 24,
+          "importance": 0.2
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        11
+      ]
+    },
+    {
+      "id": 44,
+      "firstname": "Johannes",
+      "lastname": "Eggestein",
+      "nationality": "German",
+      "birthDate": "1998-01-01",
+      "image": "https://www.proleague.be/dato/25478/1634472185-eggenstein-10.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": 75,
+      "length": "183",
+      "matchesPlayed": "5",
+      "skills": [
+        {
+          "category": 0,
+          "score": 74,
+          "importance": 0.5
+        },
+        {
+          "category": 1,
+          "score": 71,
+          "importance": 1
+        },
+        {
+          "category": 2,
+          "score": 62,
+          "importance": 0.8
+        },
+        {
+          "category": 3,
+          "score": 33,
+          "importance": 0.1
+        },
+        {
+          "category": 5,
+          "score": 84,
+          "importance": 0.6
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 45,
+      "firstname": "Björn",
+      "lastname": "Engels",
+      "nationality": "Belgian",
+      "birthDate": "1994-09-15",
+      "image": "https://www.proleague.be/dato/25478/1627760545-engels-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "83",
+      "length": "193",
+      "matchesPlayed": "24",
+      "skills": [
+        {
+          "category": 0,
+          "score": 66,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 32,
+          "importance": 0.1
+        },
+        {
+          "category": 2,
+          "score": 50,
+          "importance": 0.1
+        },
+        {
+          "category": 3,
+          "score": 86,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 46,
+      "firstname": "Radja",
+      "lastname": "Nainggolan",
+      "nationality": "Belgian",
+      "birthDate": "1988-04-05",
+      "image": "https://www.proleague.be/dato/25478/1634224915-radja-png.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "65",
+      "length": "176",
+      "matchesPlayed": "14",
+      "skills": [
+        {
+          "category": 0,
+          "score": 71,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 90,
+          "importance": 0.8
+        },
+        {
+          "category": 2,
+          "score": 85,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 70,
+          "importance": 0.5
+        },
+        {
+          "category": 5,
+          "score": 92,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.8
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "id": 47,
+      "firstname": "Samuel",
+      "lastname": "Vines",
+      "nationality": "American",
+      "birthDate": "1999-05-30",
+      "image": "https://www.proleague.be/dato/25478/1634473595-vines-1.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "68",
+      "length": "178",
+      "matchesPlayed": "3",
+      "skills": [
+        {
+          "category": 0,
+          "score": 69,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 36,
+          "importance": 0.1
+        },
+        {
+          "category": 2,
+          "score": 60,
+          "importance": 0.3
+        },
+        {
+          "category": 3,
+          "score": 67,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 72,
+          "importance": 0.8
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": 48,
+      "firstname": "Davor",
+      "lastname": "Matijas",
+      "nationality": "Croat",
+      "birthDate": "1999-03-27",
+      "image": "https://www.proleague.be/dato/25478/1627761803-matijas-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "80",
+      "length": "188",
+      "matchesPlayed": "2",
+      "skills": [
+        {
+          "category": 6,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 7,
+          "score": 64,
+          "importance": 0.5
+        },
+        {
+          "category": 8,
+          "score": 69,
+          "importance": 0.5
+        },
+        {
+          "category": 9,
+          "score": 71,
+          "importance": 0.5
+        },
+        {
+          "category": 10,
+          "score": 70,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 27,
+          "importance": 0.2
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        11
+      ]
+    },
+    {
+      "id": 49,
+      "firstname": "Bruno",
+      "lastname": "Nsimba",
+      "nationality": "Belgian",
+      "birthDate": "2000-04-05",
+      "image": "https://www.proleague.be/dato/25478/1627762517-nsimba-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": 75,
+      "length": 175,
+      "matchesPlayed": "3",
+      "skills": [
+        {
+          "category": 0,
+          "score": 72,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 66,
+          "importance": 1
+        },
+        {
+          "category": 2,
+          "score": 68,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 32,
+          "importance": 0.1
+        },
+        {
+          "category": 5,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        0
+      ]
+    },
+    {
+      "id": 50,
+      "firstname": "Robbe",
+      "lastname": "Quirynen",
+      "nationality": "Belgian",
+      "birthDate": "2001-03-11",
+      "image": "https://www.proleague.be/dato/25478/1627762809-quirynen-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": 75,
+      "length": "182",
+      "matchesPlayed": "47",
+      "skills": [
+        {
+          "category": 0,
+          "score": 85,
+          "importance": 0.8
+        },
+        {
+          "category": 1,
+          "score": 35,
+          "importance": 0.3
+        },
+        {
+          "category": 2,
+          "score": 70,
+          "importance": 0.6
+        },
+        {
+          "category": 3,
+          "score": 78,
+          "importance": 0.7
+        },
+        {
+          "category": 5,
+          "score": 80,
+          "importance": 0.6
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        6,
+        10
+      ]
+    },
+    {
+      "id": 51,
+      "firstname": "Mbwana",
+      "lastname": "Samatta",
+      "nationality": "Costa Rican",
+      "birthDate": "1992-02-07",
+      "image": "https://www.proleague.be/dato/25478/1634473459-samatta-4.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": 75,
+      "length": 175,
+      "matchesPlayed": "1",
+      "skills": [
+        {
+          "category": 0,
+          "score": 73,
+          "importance": 0.5
+        },
+        {
+          "category": 1,
+          "score": 65,
+          "importance": 0.5
+        },
+        {
+          "category": 2,
+          "score": 68,
+          "importance": 0.5
+        },
+        {
+          "category": 3,
+          "score": 30,
+          "importance": 0.2
+        },
+        {
+          "category": 5,
+          "score": 60,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 52,
+      "firstname": "Frank",
+      "lastname": "Boya",
+      "nationality": "Cameroonian",
+      "birthDate": "2000-01-01",
+      "image": "https://www.proleague.be/dato/25478/1634564098-boya-3.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": 75,
+      "length": 175,
+      "matchesPlayed": "27",
+      "skills": [
+        {
+          "category": 0,
+          "score": 67,
+          "importance": 0.5
+        },
+        {
+          "category": 1,
+          "score": 53,
+          "importance": 0.4
+        },
+        {
+          "category": 2,
+          "score": 67,
+          "importance": 0.6
+        },
+        {
+          "category": 3,
+          "score": 82,
+          "importance": 0.7
+        },
+        {
+          "category": 5,
+          "score": 70,
+          "importance": 0.6
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": 53,
+      "firstname": "Alhassan",
+      "lastname": "Abdullahi",
+      "nationality": "Nigerian",
+      "birthDate": "1995-07-18",
+      "image": "https://www.proleague.be/dato/25478/1627911869-08-alhassanyusuf.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "66",
+      "length": 175,
+      "matchesPlayed": "7",
+      "skills": [
+        {
+          "category": 0,
+          "score": 74,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 44,
+          "importance": 0.4
+        },
+        {
+          "category": 2,
+          "score": 68,
+          "importance": 0.6
+        },
+        {
+          "category": 3,
+          "score": 90,
+          "importance": 0.7
+        },
+        {
+          "category": 5,
+          "score": 70,
+          "importance": 0.5
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": 54,
+      "firstname": "Dinis",
+      "lastname": "Almeida",
+      "nationality": "Portuguese",
+      "birthDate": "1995-06-28",
+      "image": "https://www.proleague.be/dato/25478/1627757518-almeida-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "72",
+      "length": "190",
+      "matchesPlayed": "2",
+      "skills": [
+        {
+          "category": 0,
+          "score": 84,
+          "importance": 0.6
+        },
+        {
+          "category": 1,
+          "score": 28,
+          "importance": 0.1
+        },
+        {
+          "category": 2,
+          "score": 52,
+          "importance": 0.3
+        },
+        {
+          "category": 3,
+          "score": 71,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 78,
+          "importance": 0.7
+        },
+        {
+          "category": 4,
+          "score": 60,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 55,
+      "firstname": "Birger",
+      "lastname": "Verstraete",
+      "nationality": "Belgian",
+      "birthDate": "1994-04-16",
+      "image": "https://www.proleague.be/dato/25478/1627763957-verstraete-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "65",
+      "length": 175,
+      "matchesPlayed": "8",
+      "skills": [
+        {
+          "category": 0,
+          "score": 74,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 70,
+          "importance": 0.7
+        },
+        {
+          "category": 2,
+          "score": 71,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 72,
+          "importance": 0.7
+        },
+        {
+          "category": 5,
+          "score": 76,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 76,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": 56,
+      "firstname": "Louis",
+      "lastname": "Verstraete",
+      "nationality": "Belgian",
+      "birthDate": "1999-05-04",
+      "image": "https://www.proleague.be/dato/25478/1618820104-verstraete2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": 75,
+      "length": "186",
+      "matchesPlayed": "1",
+      "skills": [
+        {
+          "category": 0,
+          "score": 76,
+          "importance": 0.7
+        },
+        {
+          "category": 1,
+          "score": 68,
+          "importance": 0.7
+        },
+        {
+          "category": 2,
+          "score": 62,
+          "importance": 0.7
+        },
+        {
+          "category": 3,
+          "score": 65,
+          "importance": 0.5
+        },
+        {
+          "category": 5,
+          "score": 75,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 55,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        5
+      ]
+    },
+    {
+      "id": 57,
+      "firstname": "Zeno",
+      "lastname": "van den Bosch",
+      "nationality": "Belgian",
+      "birthDate": "2000-01-01",
+      "image": "https://www.proleague.be/dato/25478/1627763298-van-den-bosch-2.png?auto=format&crop=faces&dpr=1.5&fit=crop&h=640&w=640",
+      "weight": "73",
+      "length": "177",
+      "matchesPlayed": 0,
+      "skills": [
+        {
+          "category": 0,
+          "score": 46,
+          "importance": 0.5
+        },
+        {
+          "category": 1,
+          "score": 42,
+          "importance": 0.2
+        },
+        {
+          "category": 2,
+          "score": 51,
+          "importance": 0.3
+        },
+        {
+          "category": 3,
+          "score": 74,
+          "importance": 1
+        },
+        {
+          "category": 5,
+          "score": 65,
+          "importance": 1
+        },
+        {
+          "category": 4,
+          "score": 61,
+          "importance": 0.5
+        }
+      ],
+      "clubId": 1,
+      "positions": [
+        9
+      ]
+    }
+  ],
+  "formations": [
+    {
+      "id": 1,
+      "name": "Kompany's Squad",
+      "image": "https://static.thenounproject.com/png/1542513-200.png",
+      "playerPositions": [
+        {
+          "playerId": 10,
+          "position": 11
+        },
+        {
+          "playerId": 11,
+          "position": 10
+        },
+        {
+          "playerId": 20,
+          "position": 9
+        },
+        {
+          "playerId": 4,
+          "position": 8
+        },
+        {
+          "playerId": 18,
+          "position": 7
+        },
+        {
+          "playerId": 13,
+          "position": 6
+        },
+        {
+          "playerId": 12,
+          "position": 4
+        },
+        {
+          "playerId": 5,
+          "position": 3
+        },
+        {
+          "playerId": 17,
+          "position": 2
+        },
+        {
+          "playerId": 3,
+          "position": 1
+        },
+        {
+          "playerId": 19,
+          "position": 0
+        }
+      ],
+      "likes": 10
+    },
+    {
+      "id": 4,
+      "name": "Controlling mid",
+      "image": "https://www.pngall.com/wp-content/uploads/5/Sports-Ball-Transparent.png",
+      "playerPositions": [
+        {
+          "playerId": 10,
+          "position": 11
+        },
+        {
+          "playerId": 11,
+          "position": 10
+        },
+        {
+          "playerId": 9,
+          "position": 9
+        },
+        {
+          "playerId": 4,
+          "position": 8
+        },
+        {
+          "playerId": 14,
+          "position": 7
+        },
+        {
+          "playerId": 18,
+          "position": 5
+        },
+        {
+          "playerId": 13,
+          "position": 5
+        },
+        {
+          "playerId": 5,
+          "position": 3
+        },
+        {
+          "playerId": 23,
+          "position": 2
+        },
+        {
+          "playerId": 3,
+          "position": 1
+        },
+        {
+          "playerId": 1,
+          "position": 0
+        }
+      ],
+      "likes": 2
+    },
+    {
+      "id": 5,
+      "name": "Pro defense",
+      "image": "https://icon-library.com/images/defence-icon/defence-icon-0.jpg",
+      "playerPositions": [
+        {
+          "playerId": 10,
+          "position": 11
+        },
+        {
+          "playerId": 11,
+          "position": 10
+        },
+        {
+          "playerId": 9,
+          "position": 9
+        },
+        {
+          "playerId": 33,
+          "position": 9
+        },
+        {
+          "playerId": 4,
+          "position": 9
+        },
+        {
+          "playerId": 30,
+          "position": 8
+        },
+        {
+          "playerId": 14,
+          "position": 7
+        },
+        {
+          "playerId": 18,
+          "position": 7
+        }
+      ],
+      "likes": 1
+    },
+    {
+      "id": 6,
+      "name": "Pro Attack",
+      "image": "https://cdn2.iconfinder.com/data/icons/rpg-fantasy-game-skill-ui/512/game_skill_ui_sword_stab_attack-512.png",
+      "playerPositions": [
+        {
+          "playerId": 5,
+          "position": 3
+        },
+        {
+          "playerId": 17,
+          "position": 2
+        },
+        {
+          "playerId": 3,
+          "position": 1
+        },
+        {
+          "playerId": 1,
+          "position": 0
+        }
+      ],
+      "likes": 3
+    },
+    {
+      "id": 7,
+      "name": "Sander Top 11",
+      "image": "https://www.printcopyfactory.com/blog/wp-content/uploads/2013/04/slow.jpg",
+      "playerPositions": [
+        {
+          "playerId": 2,
+          "position": 11
+        },
+        {
+          "playerId": 11,
+          "position": 10
+        },
+        {
+          "playerId": 9,
+          "position": 9
+        },
+        {
+          "playerId": 4,
+          "position": 9
+        },
+        {
+          "playerId": 30,
+          "position": 8
+        },
+        {
+          "playerId": 14,
+          "position": 7
+        },
+        {
+          "playerId": 28,
+          "position": 7
+        },
+        {
+          "playerId": 5,
+          "position": 5
+        },
+        {
+          "playerId": 17,
+          "position": 2
+        },
+        {
+          "playerId": 3,
+          "position": 1
+        },
+        {
+          "playerId": 1,
+          "position": 0
+        }
+      ],
+      "likes": 1
+    },
+    {
+      "id": 8,
+      "name": "Very Offensive",
+      "image": "https://logos-world.net/wp-content/uploads/2020/06/PSG-emblem.png",
+      "playerPositions": [
+        {
+          "playerId": 8,
+          "position": 11
+        },
+        {
+          "playerId": 11,
+          "position": 10
+        },
+        {
+          "playerId": 4,
+          "position": 9
+        },
+        {
+          "playerId": 9,
+          "position": 9
+        },
+        {
+          "playerId": 30,
+          "position": 8
+        },
+        {
+          "playerId": 18,
+          "position": 5
+        },
+        {
+          "playerId": 28,
+          "position": 5
+        },
+        {
+          "playerId": 17,
+          "position": 2
+        },
+        {
+          "playerId": 3,
+          "position": 1
+        },
+        {
+          "playerId": 1,
+          "position": 0
+        },
+        {
+          "playerId": 29,
+          "position": 0
+        }
+      ],
+      "likes": 1
+    },
+    {
+      "id": 9,
+      "name": "ANT - AND",
+      "image": "https://footballia.net/cache/matches/db4ea75202804b38a4b503fd8969dbcf.png",
+      "playerPositions": [
+        {
+          "playerId": 2,
+          "position": 11
+        },
+        {
+          "playerId": 11,
+          "position": 10
+        },
+        {
+          "playerId": 9,
+          "position": 9
+        },
+        {
+          "playerId": 45,
+          "position": 9
+        },
+        {
+          "playerId": 4,
+          "position": 8
+        },
+        {
+          "playerId": 46,
+          "position": 7
+        },
+        {
+          "playerId": 5,
+          "position": 5
+        },
+        {
+          "playerId": 13,
+          "position": 5
+        },
+        {
+          "playerId": 23,
+          "position": 2
+        },
+        {
+          "playerId": 37,
+          "position": 1
+        },
+        {
+          "playerId": 1,
+          "position": 0
+        }
+      ],
+      "likes": 0
+    },
+    {
+      "id": 10,
+      "name": "The Best",
+      "image": "https://media.s-bol.com/xkkLZRLgVQkn/550x548.jpg",
+      "playerPositions": [
+        {
+          "playerId": 10,
+          "position": 11
+        },
+        {
+          "playerId": 50,
+          "position": 10
+        },
+        {
+          "playerId": 30,
+          "position": 9
+        },
+        {
+          "playerId": 33,
+          "position": 9
+        },
+        {
+          "playerId": 45,
+          "position": 8
+        },
+        {
+          "playerId": 18,
+          "position": 7
+        },
+        {
+          "playerId": 46,
+          "position": 5
+        },
+        {
+          "playerId": 17,
+          "position": 3
+        },
+        {
+          "playerId": 5,
+          "position": 2
+        },
+        {
+          "playerId": 3,
+          "position": 1
+        },
+        {
+          "playerId": 19,
+          "position": 0
+        }
+      ],
+      "likes": 1
+    }
+  ]
+}

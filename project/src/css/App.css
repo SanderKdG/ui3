@@ -1,0 +1,17 @@
+/*:root,
+body {
+  background-color: #eaeef3;
+}*/
+
+.body {
+  padding: 10px;
+}
+
+.flexCards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.centerCards {
+  justify-content: center;
+}
